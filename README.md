@@ -1,7 +1,6 @@
 # The-Wolf-Trader
  Quant Trading strategies
- 
- # AI for Trading
+
 
 This repo contains my work to Udacity nanodegree [AI for Trading](https://www.udacity.com/course/ai-for-trading--nd880).
 ## Table of Contents
